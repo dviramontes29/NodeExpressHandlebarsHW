@@ -1,0 +1,24 @@
+{
+  "name": "NodeExpressHandlebarsHW",
+  "version": "1.0.0",
+  "description": "HW#1 WEEK 7 THURSDAY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dviramontes29/NodeExpressHandlebarsHW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dviramontes29/NodeExpressHandlebarsHW/issues"
+  },
+  "homepage": "https://github.com/dviramontes29/NodeExpressHandlebarsHW#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  }
+}
